@@ -1,25 +1,6 @@
-*{
-    margin: 0px;
-    padding: 0px;
+h1{
+    background-color: rgb(20, 97, 220);
 }
-
-.propiedades{
-    background-color: rgb(0, 255, 47);
-    font-size: 3em; /*letra*/
-    font-family: 'Dancing Script', cursive; /*tipografia de la letra*/
-    line-height: 2.0; /*interlineado*/
-    font-weight: 10; /*grosor*/
-}
-
-.line-height-1{
-    background-color: rgb(1, 2, 70);
-    width: 400px;
-    line-height: 1;
-    color: white;
-}
-
-.line-height-2{
-    background-color:rgb(248, 112, 171);
-    width: 400px;
-    line-height: 2;
+p{
+    background-color: rgb(255, 157, 0);
 }
