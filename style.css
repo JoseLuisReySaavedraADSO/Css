@@ -1,19 +1,15 @@
-h1{
-    color: blue;
+*{
+    margin: 0px;
+    padding: 0px;
 }
-.color-h1{
-    color: aqua;
+.unidad{
+    width: 200px;
+    background-color:aquamarine;
+    font-size: 2em; 
 }
-.color-h1{
-    color: rgb(176, 8, 243);
+.contenedor{
+    font-size: 30px;
+    background-color: crimson;
+    width: 40vw;
+    height: 45vh;
 }
-/*gerarquia identificadores*/
-#color-h2{
-    color: crimson; /*el id es de mayor gerarquia que una clase*/
-}
-.color-h2{
-    color: blue;
-}
-/* !important*/
-h3{
-    color: greenyellow !important}
